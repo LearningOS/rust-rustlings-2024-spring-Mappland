@@ -9,6 +9,7 @@ authors = [
 edition = "2021"
 
 [dependencies]
+rand = "0.8"
 indicatif = "0.17.6"
 console = "0.15"
 notify = "4.0"
